@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Bram
 - 👀 I’m interested in data (lots of it!) and software development
-- 🌱 I’m currently learning Scala
+- 🌱 I’m currently playing around with the Flask framework
